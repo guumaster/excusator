@@ -1,0 +1,14 @@
+{
+  "name": "excusator",
+  "version": "1.0.0",
+  "description": "excusas para no acabar un proyecto",
+  "main": "bin/excusator.js",
+  "bin": {
+    "excusator": "bin/excusator.js"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "guumaster <gustavoandresmarin@gmail.com>",
+  "license": "MIT"
+}
