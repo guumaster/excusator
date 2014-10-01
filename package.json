@@ -10,5 +10,11 @@
     "test": ""
   },
   "author": "guumaster <gustavoandresmarin@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.1.0",
+    "request": "^2.44.0",
+    "speaker": "^0.2.1",
+    "wav": "^0.1.2"
+  }
 }
